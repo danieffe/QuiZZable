@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cute-goat-chill-swimming-pool-with-glasses-cartoon-vector-icon-illustration-animal-holiday-icon_138676-4794.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
