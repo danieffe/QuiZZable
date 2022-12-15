@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "56e1687ae914c14cb0ed474f0982f45f-planet-saturn-illustration.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
